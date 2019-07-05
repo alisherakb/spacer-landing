@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/alisherakb/spacer-landing/static/css/main.34de6062.chunk.css",
+    "main.js": "/alisherakb/spacer-landing/static/js/main.c99a2b33.chunk.js",
+    "main.js.map": "/alisherakb/spacer-landing/static/js/main.c99a2b33.chunk.js.map",
+    "runtime~main.js": "/alisherakb/spacer-landing/static/js/runtime~main.b06d0632.js",
+    "runtime~main.js.map": "/alisherakb/spacer-landing/static/js/runtime~main.b06d0632.js.map",
+    "static/js/2.480acd84.chunk.js": "/alisherakb/spacer-landing/static/js/2.480acd84.chunk.js",
+    "static/js/2.480acd84.chunk.js.map": "/alisherakb/spacer-landing/static/js/2.480acd84.chunk.js.map",
+    "index.html": "/alisherakb/spacer-landing/index.html",
+    "precache-manifest.e104e5da940bc27d72e6f81969664fee.js": "/alisherakb/spacer-landing/precache-manifest.e104e5da940bc27d72e6f81969664fee.js",
+    "service-worker.js": "/alisherakb/spacer-landing/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/alisherakb/spacer-landing/static/css/main.34de6062.chunk.css.map",
+    "static/media/AppleButton.png": "/alisherakb/spacer-landing/static/media/AppleButton.16256e83.png",
+    "static/media/Logo.png": "/alisherakb/spacer-landing/static/media/Logo.c759d69c.png",
+    "static/media/PlayMarket.png": "/alisherakb/spacer-landing/static/media/PlayMarket.0f88d8dc.png",
+    "static/media/Screenshot.png": "/alisherakb/spacer-landing/static/media/Screenshot.c25a79ef.png"
+  }
+}
